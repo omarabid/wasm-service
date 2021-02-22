@@ -32,6 +32,10 @@ contains some relevant sample code, as well as
 instructions for setting up of Cloudflare and (optionally) Coralogix logging
 service.
 
+## License
+`wasm-service` is licensed under the MIT license. Please read the [LICENSE](LICENSE) file in this repository for more information.
+
+
 ## Updates (v0.3)
 
 * Changes to support add-ons. 
